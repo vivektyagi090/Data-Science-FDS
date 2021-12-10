@@ -1,6 +1,6 @@
 Foundation of Data Science
 
-Name - vivk kumar faujdar tyagi
+Name - vivek kumar faujdar tyagi
 
 Roll no. 44
 
